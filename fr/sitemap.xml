@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/fr/categories/</loc>
+    <loc>https://zakiego.github.io/act/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://zakiego.github.io/act/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://example.org/fa/categories/"
+                href="https://zakiego.github.io/act/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://zakiego.github.io/act/fr/categories/"
                 />
   </url><url>
-    <loc>http://example.org/fr/</loc>
+    <loc>https://zakiego.github.io/act/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://zakiego.github.io/act/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://example.org/fa/"
+                href="https://zakiego.github.io/act/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://zakiego.github.io/act/fr/"
                 />
   </url><url>
-    <loc>http://example.org/fr/series/</loc>
+    <loc>https://zakiego.github.io/act/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/series/"
+                href="https://zakiego.github.io/act/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://example.org/fa/series/"
+                href="https://zakiego.github.io/act/fa/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/series/"
+                href="https://zakiego.github.io/act/fr/series/"
                 />
   </url><url>
-    <loc>http://example.org/fr/tags/</loc>
+    <loc>https://zakiego.github.io/act/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://zakiego.github.io/act/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://example.org/fa/tags/"
+                href="https://zakiego.github.io/act/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://zakiego.github.io/act/fr/tags/"
                 />
   </url>
 </urlset>
