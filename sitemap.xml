@@ -1,19 +1,167 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://zakiego.github.io/act/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://zakiego.github.io/act/</loc>
+    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://zakiego.github.io/act/fr/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://zakiego.github.io/act/posts/manusianya-akan-selamanya/</loc>
+    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://zakiego.github.io/act/fa/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://zakiego.github.io/act/posts/</loc>
+    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://zakiego.github.io/act/posts/hari-ini-dan-selamanya/</loc>
+    <lastmod>2021-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/self-love/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/categories/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/kopi-malam/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/selamat-tidur/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/categories/selamat-tidur/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/</loc>
+    <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/jangan-ulangi/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/selamat-tidur-bayanganku/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/peluklah-seninmu/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/walau-tertunda/</loc>
+    <lastmod>2021-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/al-quds/</loc>
+    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/isu-isu-horizontal/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/perbaikan-diri/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/kalaulah-sempat/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/menghapus-luka/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/salah-bila-merasa-tak-pernah-berbuat-salah/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/terkait-isu-palestina/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/29-ramadan-1442/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/mencampuradukkan-ajaran/</loc>
+    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/css/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/html/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/posts/math-typesetting-1-xxy/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/markdown/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/categories/syntax/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/tags/themes/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/categories/themes/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zakiego.github.io/act/series/</loc>
+  </url>
+  
+</urlset>
