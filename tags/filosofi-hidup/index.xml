@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title> filosofi hidup on ACT-Elgharantaly</title>
+    <title>filosofi-hidup on ACT-Elgharantaly</title>
     <link>https://elgharantaly.github.io/tags/filosofi-hidup/</link>
-    <description>Recent content in  filosofi hidup on ACT-Elgharantaly</description>
+    <description>Recent content in filosofi-hidup on ACT-Elgharantaly</description>
     <image>
       <url>https://elgharantaly.github.io/papermod-cover.png</url>
       <link>https://elgharantaly.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elgharantaly.github.io/tags/filosofi-hidup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elgharantaly.github.io/tags/filosofi-hidup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suatu Hari Nanti</title>
+      <link>https://elgharantaly.github.io/posts/suatu-hari-nanti/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/posts/suatu-hari-nanti/</guid>
+      <description>Kamu akan menyadari bahwa sebagian besar pergulatan dalam hidup yang kamu mati-matian menghadapinya ternyata hanyalah kerikil-kerikil kecil kehidupan yang berhasil mengalihkan perhatianmu dari realitas sesungguhnya tentang hidupmu.
+Ya, kamu tak sadar sedang masuk dalam “perangkap” yang membuatmu lupa akan hidup yang seharusnya kau jalani.
+Di Serambi El-Hikmah
+10.06.21</description>
+    </item>
+    
     <item>
       <title>Cangkir Kopi</title>
       <link>https://elgharantaly.github.io/posts/cangkir-kopi/</link>
@@ -18,7 +30,8 @@
       
       <guid>https://elgharantaly.github.io/posts/cangkir-kopi/</guid>
       <description>Dari dulu saya tidak pernah peduli dengan model cangkir yang saya pakai untuk menyeruput kopi. Karena tampilan cangkir tidak akan menambah kualitas atau mengubah rasa kopi.
-Jenis “cangkir” juga tidak akan mendefinisikan, atau mengubah kualitas hidup saya. Malahan, konsentrasi pada cangkir kopi seringkali membuat seseorang gagal menikmati kopi. Demikianlah filosofi hidup ini.
+Jenis “cangkir” juga tidak akan mendefinisikan, atau mengubah kualitas hidup saya. Malahan, konsentrasi pada cangkir kopi seringkali membuat seseorang gagal menikmati kopi.
+Demikianlah filosofi hidup ini.
 Kopi adalah hidup itu sendiri. Adapun pekerjaan, jabatan, status sosial, kendaraan dan yang lainnya hanyalah cangkir.
 Maka jangan sampai kesibukan kita mempercantik cangkir membuat kita lupa dengan kualitas kopi.</description>
     </item>
@@ -29,7 +42,19 @@ Maka jangan sampai kesibukan kita mempercantik cangkir membuat kita lupa dengan 
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://elgharantaly.github.io/posts/kecelakaan-maut/</guid>
-      <description>Kecelakaan maut lebih sering terjadi di jalan bebas hambatan ketimbang di jalan raya. Sebuah pesan bahwa hidup yang nyaman-nyaman saja rawan “kecelakaan” ketimbang hidup yang penuh pergumulan.</description>
+      <description>Kecelakaan maut lebih sering terjadi di jalan bebas hambatan ketimbang di jalan raya.
+Sebuah pesan bahwa hidup yang nyaman-nyaman saja rawan “kecelakaan” ketimbang hidup yang penuh pergumulan.</description>
+    </item>
+    
+    <item>
+      <title>Prinsip Hidup</title>
+      <link>https://elgharantaly.github.io/posts/allah-takkan-melupakan-kebaikan-yang-kau-beri/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/posts/allah-takkan-melupakan-kebaikan-yang-kau-beri/</guid>
+      <description>Allah takkan melupakan kebaikan yang kau beri, kesusahan orang lain yang kau atasi, dan mata yang hampir saja menangis lalu kau buat bahagia.
+Hiduplah diatas prinsip:
+&amp;ldquo;Jadilah orang baik meskipun kau tak diperlakukan baik oleh orang lain&amp;rdquo;</description>
     </item>
     
   </channel>

@@ -10,22 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elgharantaly.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elgharantaly.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>filosofi-hidup</title>
+      <link>https://elgharantaly.github.io/tags/filosofi-hidup/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/filosofi-hidup/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>mimpi</title>
       <link>https://elgharantaly.github.io/tags/mimpi/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://elgharantaly.github.io/tags/mimpi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> filosofi hidup</title>
-      <link>https://elgharantaly.github.io/tags/filosofi-hidup/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgharantaly.github.io/tags/filosofi-hidup/</guid>
       <description></description>
     </item>
     
@@ -354,7 +354,7 @@
     </item>
     
     <item>
-      <title> istighfar</title>
+      <title>istighfar</title>
       <link>https://elgharantaly.github.io/tags/istighfar/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
@@ -363,11 +363,11 @@
     </item>
     
     <item>
-      <title>terror</title>
-      <link>https://elgharantaly.github.io/tags/terror/</link>
+      <title>teror</title>
+      <link>https://elgharantaly.github.io/tags/teror/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://elgharantaly.github.io/tags/terror/</guid>
+      <guid>https://elgharantaly.github.io/tags/teror/</guid>
       <description></description>
     </item>
     
@@ -543,7 +543,7 @@
     </item>
     
     <item>
-      <title>nasihat</title>
+      <title> nasihat</title>
       <link>https://elgharantaly.github.io/tags/nasihat/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
@@ -557,6 +557,78 @@
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://elgharantaly.github.io/tags/baper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> sunnah</title>
+      <link>https://elgharantaly.github.io/tags/sunnah/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/sunnah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zulhijjah</title>
+      <link>https://elgharantaly.github.io/tags/zulhijjah/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/zulhijjah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hijrah</title>
+      <link>https://elgharantaly.github.io/tags/hijrah/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/hijrah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> suami</title>
+      <link>https://elgharantaly.github.io/tags/suami/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/suami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rumah tangga</title>
+      <link>https://elgharantaly.github.io/tags/rumah-tangga/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/rumah-tangga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandangan</title>
+      <link>https://elgharantaly.github.io/tags/pandangan/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/pandangan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> zakat fitrah</title>
+      <link>https://elgharantaly.github.io/tags/zakat-fitrah/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/zakat-fitrah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> sahur</title>
+      <link>https://elgharantaly.github.io/tags/sahur/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgharantaly.github.io/tags/sahur/</guid>
       <description></description>
     </item>
     
